@@ -80,6 +80,10 @@ When SuStain was applied to a large set of Multiple sclerosis scans, it identifi
 ## 6. Acknowledgments
 
 The author likes to thank Gregor von Laszewski, Yohn Jairo, and Carlos Theran.
+This project was in part supported by the NSF grant
+CyberTraining: CIC: CyberTraining for Students and Technologies
+from Generation Z with the awadrd numbers 1829704 and 2200409.
+
 
 ## 7. References
 
